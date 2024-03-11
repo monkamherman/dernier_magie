@@ -73,7 +73,7 @@ width: 15rem;
     font-weight: bold;
     letter-spacing: 0.35rem;
     transition: .5s;
-    opacity: 0;cl
+    opacity: 0;
     transform: translateY(2rem);
 }
 .navigation ul li.active a .text{
